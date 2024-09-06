@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier,Description
+1001,Bluetooth Mouse,Electronics,27.99,130,TechWare,"A comfortable and responsive Bluetooth mouse for all-day use."
+1002,Gaming Keyboard,Electronics,94.99,60,GameMaster,"A high-performance gaming keyboard with RGB backlighting and mechanical switches."
+1003,Multi-Port Adapter,Accessories,44.99,190,GizmoHub,"A versatile multi-port adapter with USB-C, HDMI, and USB 3.0 ports."
+1004,Over-Ear Headphones,Electronics,119.99,80,AudioMaster,"Over-ear headphones with crystal-clear sound and noise isolation."
+1005,Curved Monitor,Electronics,329.99,25,PixelDisplay,"A 30-inch curved 4K monitor with ultra-wide viewing angles."
+1006,Portable NVMe SSD,Storage,89.99,110,DataDrive,"A 1TB NVMe portable SSD with lightning-fast read and write speeds."
+1007,Fitness Tracker,Wearables,179.99,85,LifeTech,"A stylish fitness tracker with heart rate monitoring and sleep tracking."
+1008,Fast Wireless Charger,Accessories,32.99,170,ChargePro,"A quick-charge wireless charging pad compatible with most smartphones."
+1009,Adjustable Laptop Stand,Accessories,24.99,220,DeskGear,"A height-adjustable laptop stand designed for ergonomic use."
+1010,Backup Hard Drive,Storage,64.99,90,DataVault,"A durable 2TB external hard drive with backup and encryption features."
